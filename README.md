@@ -4,7 +4,7 @@ C++ implementation of Lee algorithm, a pathfidning algorithm
 The implementation contains:
 * LeePathfinder.h - class used for pathfinding
 * utils.h - tiny header with utility function for loading maze matrix from file
-* sample.cpp - sample of how the path is retrieved.
+* Sample MVS - sample for Microsoft Visual Studio
 
 ***
 
